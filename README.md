@@ -25,6 +25,8 @@ Two variations are shown bellow:
 
 Rule Set: **LLRR**, produced with cardioid.py
 
+--------------------------------
+
 ![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/master/Results/square.png)
 
 Rule Set: **LRRRRRLLR**, produced with square.py
