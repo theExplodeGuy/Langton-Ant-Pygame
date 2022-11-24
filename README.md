@@ -7,6 +7,7 @@ Langton's ant is a two-dimensional universal Turing machine with a very simple s
 
 # Result
 ![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/master/Results/original.png)
+
 produced with original.py
 
 # Extension to Multiple Colours
@@ -20,8 +21,10 @@ and so on.
 
 Two variations are shown bellow:
 
-![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/main/Results/cardioid.png?raw=true)
+![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/master/Results/cardioid.png)
+
 Rule Set: **LLRR**, produced with cardioid.py
 
-![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/main/Results/square.png?raw=true)
+![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/master/Results/square.png)
+
 Rule Set: **LRRRRRLLR**, produced with square.py
