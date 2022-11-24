@@ -6,7 +6,7 @@ Langton's ant is a two-dimensional universal Turing machine with a very simple s
 - At a black square, turn 90° counter-clockwise, flip the color of the square, move forward one unit
 
 # Result
-![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/main/Figures/original.png?raw=true)
+![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/main/Results/original.png?raw=true)
 produced with original.py
 
 # Extension to Multiple Colours
@@ -20,8 +20,8 @@ and so on.
 
 Two variations are shown bellow:
 
-![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/main/Figures/cardioid.png?raw=true)
+![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/main/Results/cardioid.png?raw=true)
 Rule Set: **LLRR**, produced with cardioid.py
 
-![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/main/Figures/square.png?raw=true)
+![alt text](https://github.com/theExplodeGuy/Langton-Ant-Pygame/blob/main/Results/square.png?raw=true)
 Rule Set: **LRRRRRLLR**, produced with square.py
